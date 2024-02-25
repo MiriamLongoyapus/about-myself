@@ -12,6 +12,11 @@ background-color: lightgrey;
     text-align: center;
    
 }
+.Introduction p{
+    margin: 10px;
+    
+   
+}
 .h1{
     font-size: xx-large;
     font-weight: 200px;
